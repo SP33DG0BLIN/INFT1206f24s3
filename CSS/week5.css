@@ -1,0 +1,16 @@
+/*
+curry munchers club
+*/
+#id1{
+    color: purple;
+}
+h1{
+    font-size: 12px;
+}
+.type1{
+    text-decoration: underline;
+}
+div h2{
+    background-color: red;
+}
+/* for nested selector
