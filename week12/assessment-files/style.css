@@ -95,14 +95,17 @@ div[class="nav"] li {
   display: inline;
   text-align: center;
   flex: 1;
+  text-align: center;
 }
 
 div[class="nav"] a {
-  display: inline-block;
+  display: block;
   font-size: 2rem;
   text-transform: uppercase;
   text-decoration: none;
   color: black;
+  border-radius: 5px;
+  padding: 10px 15px;
 }
 
 div[class="nav"] .search {
